@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+    }
+    
+html, body 
+{
+    height: 100%;
+    
+}
+#header
+{
+    background-color: teal;
+ 
+
+}
+#text
+{
+    font-size:30px;
+    text-align: center;
+    color: whitesmoke;
+}
+/* #container
+{
+ height: 100%;
+ margin:0px 150px;
+ background-color:lightgray;
+ overflow: scroll;
+
+} */
+#number_var_con
+{
+    border-bottom:1px solid #9e9e9e;
+    
+}
+#constraints,#variables
+{
+    margin:5px 0px;
+   
+}
+#objective
+{
+    height:calc(100vh - 180px);
+    overflow: auto;
+}
+#text_objective
+{
+    margin:20px;
+    text-align: center;
+}
+#objective_function
+{
+/* padding-left: 120px; */
+}
+
+
+
+#objective_function input{
+
+}
